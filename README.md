@@ -1,6 +1,6 @@
 GettingAndCleaningData
 ======================	======================
-Repository for Cousera: https://class.coursera.org/getdata-008	Repository for Cousera: https://class.coursera.org/getdata-008
+Repository for Cousera: https://class.coursera.org/getdata-008
 > run_analysis.R should do the following:	> run_analysis.R should do the following:
    	   
 >   1)  Merges the training and the test sets to create one data set.	>   1)  Merges the training and the test sets to create one data set.
