@@ -34,4 +34,4 @@ str(Data)
 activityLabels <- read.table(file.path(path_rf, "activity_labels.txt"),header = FALSE)
 
 head(Data$activity,30)
-write.table(r_a,row.name = FALSE)
+write.table(activityLabels,file = "tidydata.txt",row.name = FALSE)
